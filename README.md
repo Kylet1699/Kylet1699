@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Kyle 👋
+
+I am a full-stack web developer currently seeking new opportunities. I work on random projects in my free time, mostly involving different web technologies!
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,angular,nodejs)](https://skills.thijs.gg)
+
+- I'm currently learning Golang (![text](https://skills.thijs.gg/icons?i=go))
+- How to reach me: kyletseng1699@gmail.com
 
 <!--
 **Kylet1699/Kylet1699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
