@@ -10,9 +10,11 @@ I am a full-stack web developer currently seeking new opportunities. I work on r
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
+<br/>
 
 - I'm currently learning Golang 🤩
-- How to reach me: kyletseng1699@gmail.com
+- Reach me @ kyletseng1699@gmail.com
+- Check out my web portfolio @ https://kyletseng.com/
 
 <!--
 **Kylet1699/Kylet1699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
